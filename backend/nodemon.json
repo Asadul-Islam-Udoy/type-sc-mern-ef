@@ -1,0 +1,6 @@
+{
+    "watch":["."],
+    "cxt":"tsc",
+    "ignore":["node-modules","dist"],
+    "exec":"ts-node server.ts"
+}
